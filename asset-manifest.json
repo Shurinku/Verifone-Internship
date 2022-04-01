@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Verifone-Internship%20%20/static/css/main.22b1b0e5.css",
+    "main.js": "/Verifone-Internship%20%20/static/js/main.cc74716b.js",
+    "static/js/787.eaad36ba.chunk.js": "/Verifone-Internship%20%20/static/js/787.eaad36ba.chunk.js",
+    "index.html": "/Verifone-Internship%20%20/index.html",
+    "main.22b1b0e5.css.map": "/Verifone-Internship%20%20/static/css/main.22b1b0e5.css.map",
+    "main.cc74716b.js.map": "/Verifone-Internship%20%20/static/js/main.cc74716b.js.map",
+    "787.eaad36ba.chunk.js.map": "/Verifone-Internship%20%20/static/js/787.eaad36ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b1b0e5.css",
+    "static/js/main.cc74716b.js"
+  ]
+}
